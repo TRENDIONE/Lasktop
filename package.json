@@ -1,0 +1,8 @@
+{
+  "name": "megavites-storefront",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  }
+}
